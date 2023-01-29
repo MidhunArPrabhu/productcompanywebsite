@@ -29,7 +29,7 @@ Publish the website in the given URL.
 
 home.html
 
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -712,7 +712,7 @@ margin-left:auto;
 margin-right:auto;
 }
 
-
+```
 ## Output:
 ![Screenshot (47)](https://user-images.githubusercontent.com/118787344/215344055-ab4184fb-c523-45ae-9b3a-c298abbf5e76.png)
 
