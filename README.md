@@ -325,6 +325,11 @@ body {
 
 ![Screenshot (74)](https://user-images.githubusercontent.com/118054670/215335748-7f9b7b84-7191-458d-b80f-cd12306cf5db.png)
 
+## HTML VALIDATOR :
+
+![Screenshot (76)](https://user-images.githubusercontent.com/118054670/215337399-be637787-c5a4-47fa-8b78-13cbf4b49df1.png)
+
+
 
 ## RESULT :
 
